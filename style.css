@@ -18,6 +18,9 @@ body {
     background-size: contain;
 }
 
+.principal{
+    width: 50px;
+}
 .container {
     height: 100vh;
 }
